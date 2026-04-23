@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[ССЫЛКА_НА_ВАШЕ_ФОТО]" width="180" height="180" style="border-radius: 50%;">
+
   
   <h1>Бекнур (Kiko) Нурмухан</h1>
   <h3>Junior Data Analyst | BDA Student @ AITU</h3>
