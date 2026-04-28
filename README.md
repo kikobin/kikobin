@@ -11,7 +11,8 @@
 ---
 
 ### CORE TECH STACK
-* **Languages:** Python (Pandas, NumPy, Scikit-learn), SQL, C++
+* **Languages:** Python (Pandas, NumPy, Scikit-learn), SQL, C++, Java
+  
 * **Databases:** PostgreSQL, MySQL
 * **Visualization:** Power BI, Matplotlib, Seaborn, Excel
 * **Infrastructure:** Git, GitHub, Docker, Jupyter, Linux, Bash
